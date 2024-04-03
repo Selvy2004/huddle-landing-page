@@ -84,7 +84,7 @@ body{
 
 .container {
   max-width: 120rem;
-  margin: 0 6.4rem;
+  margin: 0 auto;
 }
 
 .btn-pink:link,
